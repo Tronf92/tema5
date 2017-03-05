@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tema 5", "tema 5\tema 5.vcxproj", "{4DEEF47B-BE9B-436A-B3B2-AB7C6516900B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEEF47B-BE9B-436A-B3B2-AB7C6516900B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DEEF47B-BE9B-436A-B3B2-AB7C6516900B}.Debug|Win32.Build.0 = Debug|Win32
+		{4DEEF47B-BE9B-436A-B3B2-AB7C6516900B}.Release|Win32.ActiveCfg = Release|Win32
+		{4DEEF47B-BE9B-436A-B3B2-AB7C6516900B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
